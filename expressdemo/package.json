@@ -1,0 +1,19 @@
+{
+  "name": "expressdemo",
+  "version": "0.0.1",
+  "description": "expree项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "qyj",
+  "license": "ISC",
+  "dependencies": {
+    "art-template": "^4.13.2",
+    "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
+    "express": "^4.16.4",
+    "express-art-template": "^1.0.1",
+    "node-sass-middleware": "^0.11.0"
+  }
+}
